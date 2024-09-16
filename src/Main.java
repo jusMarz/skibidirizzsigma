@@ -3,5 +3,6 @@ public class Main {
 
 
         System.out.print("Jonas Abduljabbar");
+        System.out.print("Skibidi Slicers");
     }
 }
